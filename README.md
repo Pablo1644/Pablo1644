@@ -4,7 +4,7 @@
 🔭 I’m currently working on learning Java.</br>
 1."Java od podstaw" done   
 2. "GetProJava" done </br>
-3. "SpringReady" done
+3. "SpringReady" done </br>
 4. Algorithms freom book in progress..
 
 
