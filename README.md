@@ -5,6 +5,6 @@
 1."Java od podstaw" done   
 2. "GetProJava" done </br>
 3. "SpringReady" done </br>
-4. Algorithms freom book in progress..
+4. Algorithms from book in progress..
 
 
