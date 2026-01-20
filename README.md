@@ -19,12 +19,10 @@ As an **engineer working in the Laboratory of Fire Alarm Systems and Fire Automa
 
 ### 💻 Programming & Courses
 
-**Java / Programming courses:**
+**Java /Python Programming courses:**
 1. *Java from the Beginning* – ✅ completed  
 2. *GetProJava* – ✅ completed  
 3. *SpringReady* – ✅ completed  
-
-**Python & Data Analysis:**
 4. *Python course for beginners and intermediate level* – ✅ completed  
 5. *Data Structures and Algorithms in Python* – ✅ completed  
 6. *Python and Pandas in Practice – Effective Data Analysis* – ✅ completed  
