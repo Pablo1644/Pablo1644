@@ -24,7 +24,7 @@ As an **engineer working in the Laboratory of Fire Alarm Systems and Fire Automa
 2. *GetProJava* – ✅ completed  
 3. *SpringReady* – ✅ completed  
 
-**Python & Data Analysis:** </br>
+**Python & Data Analysis:**
 4. *Python course for beginners and intermediate level* – ✅ completed  
 5. *Data Structures and Algorithms in Python* – ✅ completed  
 6. *Python and Pandas in Practice – Effective Data Analysis* – ✅ completed  
