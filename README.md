@@ -10,8 +10,7 @@
 I am currently developing my **data analysis skills**.  
 I am currently  member of the **DataHeroes** program, where I continuously learn things for data analysis through **practical homework and small projects**. 
 I was learning Excel, mainly focused on the pivots and SQL. 
-
-My next step  in this course is learning **Power BI**. Before that, I will complete **two smaller Udemy courses** to consolidate my Excel and SQL skills.
+</br>
 I graduated from the physics department, where I dealt with experimental data processing both in my thesis and during my studies. </br>
 As an **engineer working in the Laboratory of Fire Alarm Systems and Fire Automation – BA**, I work with a wide range of experimental results and technical data and I am trying to implement automatization in my work where it is possible. 
 
