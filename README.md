@@ -28,7 +28,7 @@ workflows. I develop my skills in SQL, Python, Excel and Power BI.
 -   **Python and Pandas in Practice -- Effective Data Analysis** --
     Udemy <b>finished/ukończone</b>
 -   **Data Structures and Algorithms in Python** -- Udemy <b>finished/ukończone</b>
--   **Python Course for Beginners and Intermediate Level** -- Udemy
+-   **Python Course for Beginners and Intermediate Level** -- Udemy <b>finished/ukończone</b>
 -   **Spring Ready** -- Bartosz Kalka <b>finished/ukończone</b>
 -   **GetProJava** -- Bartosz Kalka <b>finished/ukończone</b>
 -   **Pivot Tables in Excel** -- Bartosz Czapielski, SkuteczneRaporty.pl <b>finished/ukończone</b>
