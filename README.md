@@ -11,13 +11,11 @@ Badge](https://www.codewars.com/users/Pablo1644/badges/large?theme=light)](https
 
 Łączę praktykę inżynierską z analizą danych, automatyzując procesy i
 usprawniając pracę z danymi eksperymentalnymi oraz biznesowymi. Rozwijam
-kompetencje w zakresie SQL, Pythona, Excela i Power BI, m.in. w ramach
-programu Data Heroes.
+kompetencje w zakresie SQL, Pythona, Excela i Power BI.
 
 I combine engineering experience with practical data analysis,
 automating processes and improving experimental and business data
-workflows. I develop my skills in SQL, Python, Excel and Power BI,
-including through the Data Heroes program.
+workflows. I develop my skills in SQL, Python, Excel and Power BI.
 
 ------------------------------------------------------------------------
 
