@@ -45,12 +45,12 @@ including through the Data Heroes program.
 
 **SQL (MySQL) \| Power BI**
 
-🇵🇱 **PL** - Kompleksowa analiza sprzedaży, klientów, produktów, rabatów
+ **PL** - Kompleksowa analiza sprzedaży, klientów, produktów, rabatów
 i zwrotów z wykorzystaniem zaawansowanych zapytań SQL (CTE, funkcje
 okienkowe, podzapytania). - Przygotowanie widoków SQL oraz
 interaktywnego dashboardu Power BI prezentującego kluczowe KPI.
 
-🇬🇧 **EN** - Comprehensive analysis of sales, customers, products,
+ **EN** - Comprehensive analysis of sales, customers, products,
 discounts and returns using advanced SQL queries (CTEs, window
 functions, subqueries). - Developed SQL views and an interactive Power
 BI dashboard presenting key business KPIs.
@@ -59,11 +59,11 @@ BI dashboard presenting key business KPIs.
 
 **Power BI \| DAX**
 
-🇵🇱 **PL** - Opracowanie modelu danych oraz miar DAX do analizy
+ **PL** - Opracowanie modelu danych oraz miar DAX do analizy
 kluczowych wskaźników. - Stworzenie interaktywnego dashboardu
 wspierającego raportowanie organizacji non-profit.
 
-🇬🇧 **EN** - Developed a data model and DAX measures to analyze key
+**EN** - Developed a data model and DAX measures to analyze key
 performance indicators. - Created an interactive Power BI dashboard
 supporting reporting for a non-profit organization.
 
@@ -71,11 +71,11 @@ supporting reporting for a non-profit organization.
 
 **Power BI \| DAX**
 
-🇵🇱 **PL** - Analiza danych sportowych z wykorzystaniem Power BI i DAX. -
+**PL** - Analiza danych sportowych z wykorzystaniem Power BI i DAX. -
 Przygotowanie modelu danych, miar analitycznych i interaktywnego raportu
 do wizualizacji wyników.
 
-🇬🇧 **EN** - Analyzed sports data using Power BI and DAX. - Developed a
+ **EN** - Analyzed sports data using Power BI and DAX. - Developed a
 data model, analytical measures and an interactive dashboard for
 performance visualization.
 
@@ -83,21 +83,21 @@ performance visualization.
 
 **SQL Server \| Power BI**
 
-🇵🇱 **PL** - Czyszczenie, transformacja i analiza danych sprzedażowych w
+ **PL** - Czyszczenie, transformacja i analiza danych sprzedażowych w
 SQL Server. - Przygotowanie dashboardu Power BI do monitorowania KPI i
 trendów sprzedażowych.
 
-🇬🇧 **EN** - Cleaned, transformed and analyzed sales data using SQL
+ **EN** - Cleaned, transformed and analyzed sales data using SQL
 Server. - Built a Power BI dashboard to monitor KPIs and sales trends.
 
 ### 📊 E-commerce Sales Analysis
 
 **Python \| Pandas \| Matplotlib**
 
-🇵🇱 **PL** - Analiza trendów sprzedaży, produktów i zachowań klientów. -
+**PL** - Analiza trendów sprzedaży, produktów i zachowań klientów. -
 Segmentacja klientów oraz wizualizacja danych z wykorzystaniem Pythona.
 
-🇬🇧 **EN** - Analyzed sales trends, product performance and customer
+**EN** - Analyzed sales trends, product performance and customer
 behavior. - Performed customer segmentation and data visualization using
 Python.
 
@@ -105,11 +105,11 @@ Python.
 
 **Python \| OCR \| Pandas \| Excel**
 
-🇵🇱 **PL** - Automatyzacja odczytu i przetwarzania danych pomiarowych z
+ **PL** - Automatyzacja odczytu i przetwarzania danych pomiarowych z
 wykorzystaniem OCR. - Implementacja walidacji, agregacji danych oraz
 automatycznego generowania raportów.
 
-🇬🇧 **EN** - Automated measurement data extraction and processing using
+ **EN** - Automated measurement data extraction and processing using
 OCR. - Implemented data validation, aggregation and automated report
 generation.
 
@@ -117,11 +117,11 @@ generation.
 
 **Python \| Pandas \| Matplotlib**
 
-🇵🇱 **PL** - Automatyzacja analizy eksperymentalnych danych transmisji
+ **PL** - Automatyzacja analizy eksperymentalnych danych transmisji
 optycznej. - Zastosowanie metody Tauc do wyznaczania przerwy
 energetycznej półprzewodników.
 
-🇬🇧 **EN** - Automated the analysis of experimental optical transmission
+**EN** - Automated the analysis of experimental optical transmission
 data. - Applied the Tauc method to estimate the semiconductor energy
 gap.
 
@@ -129,11 +129,11 @@ gap.
 
 **Excel \| Pivot Tables**
 
-🇵🇱 **PL** - Analiza kosztów, zmian rok do roku oraz struktury
+ **PL** - Analiza kosztów, zmian rok do roku oraz struktury
 wydatków. - Przygotowanie tabel przestawnych i interaktywnego dashboardu
 Excel.
 
-🇬🇧 **EN** - Analyzed business costs, year-over-year changes and spending
+ **EN** - Analyzed business costs, year-over-year changes and spending
 categories. - Developed pivot tables and an interactive Excel dashboard.
 
 ------------------------------------------------------------------------
@@ -142,22 +142,22 @@ categories. - Developed pivot tables and an interactive Excel dashboard.
 
   Obszar / Area           Technologie / Technologies
   ----------------------- -----------------------------------
-  Data Analysis           SQL, MySQL, SQL Server
-  Business Intelligence   Power BI, DAX
-  Data Processing         Python, Pandas
-  Spreadsheets            Microsoft Excel, Pivot Tables
-  Visualization           Power BI, Matplotlib
-  Programming             Python, Java
-  Other                   Git, GitHub, OCR, Data Automation
+  Data Analysis / Analiza danych              SQL, MySQL, SQL Server
+  Business Intelligence / Analiza biznesowa   Power BI, DAX
+  Data Processing /Procesowanie danych        Python, Pandas
+  Spreadsheets/ Arkusze                       Microsoft Excel, Pivot Tables
+  Visualization/Wizualizacja                  Power BI, Matplotlib
+  Programming/Programowanie                   Python, Java
+  Other/Inne                                  Git, GitHub, OCR, Data Automation
 
 ------------------------------------------------------------------------
 
 ## 🎯 Aktualnie rozwijam \| Current Focus
 
--   Data Analytics & Business Intelligence
--   SQL / MySQL
--   Power BI & DAX
--   Python & Pandas
--   Excel & Data Visualization
--   Data Automation
--   Practical, business-oriented data projects
+-   Data Analytics & Business Intelligence / Szeroko rozumianą analizę danych i analizę biznesową
+-   SQL / MySQL / -.-
+-   Power BI & DAX / -.-
+-   Python & Pandas / -.-
+-   Excel & Data Visualization / Excel i wizualizacja danych w Excelu
+-   Data Automation / Automatyzacja danych
+-   Practical, business-oriented data projects / Projekty praktyczne
