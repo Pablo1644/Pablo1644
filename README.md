@@ -20,20 +20,20 @@ workflows. I develop my skills in SQL, Python, Excel and Power BI.
 ------------------------------------------------------------------------
 
 ## 💻 Kursy i szkolenia \| Courses & Training
-
+-   **Kajo Data Space Member** -- Aktywny członek społeczności Kajo Data Space / Member of Kajo Data Space's comunity
 -   **Data Heroes** -- Data Analyst Development Program (SQL, Excel,
-    Power BI, DAX, Statistics)
--   **Power BI for Data Analysts** -- Data Heroes
--   **The Complete SQL Bootcamp: Go from Zero to Hero** -- Udemy
+    Power BI, DAX, Statistics) - <b>finished/ukończone</b>
+-   **Power BI for Data Analysts** -- Data Heroes  <b>finished/ukończone</b>
+-   **The Complete SQL Bootcamp: Go from Zero to Hero** -- Udemy <b>finished/ukończone</b>
 -   **Python and Pandas in Practice -- Effective Data Analysis** --
-    Udemy
--   **Data Structures and Algorithms in Python**
--   **Python Course for Beginners and Intermediate Level**
--   **Java from the Beginning**
--   **GetProJava**
--   **Pivot Tables in Excel** -- Bartosz Czapielski, SkuteczneRaporty.pl
--   **Data Analysis in SQL** -- KajoData
--   **Data Analysis in Microsoft Excel** -- KajoData
+    Udemy <b>finished/ukończone</b>
+-   **Data Structures and Algorithms in Python** -- Udemy <b>finished/ukończone</b>
+-   **Python Course for Beginners and Intermediate Level** -- Udemy
+-   **Spring Ready** -- Bartosz Kalka <b>finished/ukończone</b>
+-   **GetProJava** -- Bartosz Kalka <b>finished/ukończone</b>
+-   **Pivot Tables in Excel** -- Bartosz Czapielski, SkuteczneRaporty.pl <b>finished/ukończone</b>
+-   **Data Analysis in SQL** -- KajoData <b>finished/ukończone</b>
+-   **Data Analysis in Microsoft Excel** -- KajoData <b>finished/ukończone</b>
 
 ------------------------------------------------------------------------
 
